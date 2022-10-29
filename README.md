@@ -11,6 +11,7 @@ This repo is setup with the following:
 - A "template" folder that contains the JSON of the imaginary table data. The .js file is just the json written in a more user-friendly way. It is also imported into App.js
 - A "utils" folder that contains the "convert" function in its incomplete form. It too is imported into App.js
 - A "tests" folder with the test you are being asked to pass
+
 The test file has both the JSON data and the "convert" function present there. You should edit the function in this. However, launch the React app to view the table the function is attempting to create. If you click on the "convert" button, the console will display the entire HTMl output of "convert.js". The duplicate function you will work with in the test file is setup to only return an array of the cells with formulas. This makes for easier testing. 
 
 ## Testing
