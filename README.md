@@ -14,6 +14,8 @@ This repo is setup with the following:
 
 The test file has both the JSON data and the "convert" function present there. You should edit the function in this file. However, launch the React app to view the table the function is attempting to create. If you click the "convert" button, the console will display the entire HTMl output of "convert.js". The duplicate function you will work with in the test file is setup to only return an array of the cells with formulas. This makes for easier testing. 
 
+If you would like to work with the function to better understand it, edit the convert.js file, run the React app, click the "convert" button, and check the console to see the function's output.
+
 ## Testing
 To run the test, open a terminal and navigate to "/src/tests". Run the command:
 ```
