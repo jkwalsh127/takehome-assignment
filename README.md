@@ -4,7 +4,8 @@
 This takehome assignment is testing your ability as a front-end developer. In this scenario, you are working with a function that converts JSON data from an imaginary spreadsheet into an HTML table. As you will see, much of this function is already written. However, the problem is that there are a few formulas used in the spreadsheet (recall that formula text in spreadsheets usually take the form "=a1*b2", for example). As the function is written, it returns `<td>` for these cells with the formulas as their content. This, of course, is not what we want. Instead, the actual values of these formulas should be displayed in the HTML table. So, it is your job to figure out how to create `<td>` that contains values rather than formulas.
 
 ## Requirements
-The test "./src/tests/convert.test.js" should pass.
+- The test "./src/tests/convert.test.js" should pass.
+- Submit a walkthrough video showing the test passing and explaining the changes you made.
 
 ## Procedure
 This repo is setup with the following:
